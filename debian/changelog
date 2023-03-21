@@ -1,8 +1,12 @@
-kwayland-server (5.24.3-1+u017) UNRELEASED; urgency=medium
+kwayland-server (5.24.3-1deepin) unstable; urgency=medium
 
+  [ Debian Qt/KDE Maintainers ]
   * update
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 18 May 2022 09:56:16 +0800
+  [ Yutao Meng ]
+  * Regulate version name
+
+ -- Yutao Meng <mengyutao@uniontech.com>  Tue, 21 Mar 2023 13:23:39 +0800
 
 kwayland-server (5.24.3-1) unstable; urgency=medium
 
